@@ -1,9 +1,9 @@
-# the best git hub repo file
-this is readme
+# The best git hub repo file
+This is readme
 the best ways are:
 - Eat
 - sleep
 - code
 - repeat
 
-thank You!
+Thank You!
